@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asif-ali-khan
 - 👀 I’m interested in Data relaeted field, Data Analysis, Power Bi, Data Visulisation, Business Analyst.
-- 🌱 I’m currently learning SQL, R & Python.
+- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on with data releated projects.
 - 📫 You can reach me on 
 -     Email  - asifalikhan17720@gmail.com 
