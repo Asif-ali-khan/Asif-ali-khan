@@ -18,6 +18,11 @@
 - Power BI (DAX, Data Modeling, Drill-down Visuals)
 
 ---
+## 📜 Certifications
+
+- Virtual Internship in Power BI – [Forage](https://www.theforage.com/)
+- Power BI Certificate Course – Willntrix Technologies
+---
 
 ## 🤝 Open to Collaborate
 I’m looking to work on real-world, data-related projects where I can contribute and grow in:
