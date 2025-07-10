@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Asif-ali-khan/Asif-ali-khan/blob/main/A_professional_digital_graphic_banner_displays_Asi.png "alt="Asif Ali Khan - Data Analyst Banner" />
+  <img src="https://github.com/Asif-ali-khan/Asif-ali-khan/blob/main/asif-banner.png?raw=true" alt="Asif Ali Khan - Data Analyst Banner" />
 </p>
 
 # 👋 Hi, I’m Asif Ali Khan  
