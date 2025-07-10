@@ -1,13 +1,42 @@
-- 👋 Hi, I’m @Asif-ali-khan
-- 👀 I’m interested in Data relaeted field, Data Analysis, Power Bi, Data Visulisation, Business Analyst.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on with data releated projects.
-- 📫 You can reach me on 
--     Email  - asifalikhan17720@gmail.com 
--     Linkedin - www.linkedin.com/in/asifalikhana
+# 👋 Hi, I’m Asif Ali Khan
 
+🎯 Aspiring Data Analyst | Power BI Enthusiast | Business Intelligence Learner
 
-<!---
-Asif-ali-khan/Asif-ali-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 Interests
+- Data Analysis  
+- Power BI Dashboards  
+- Data Visualization  
+- Business Analytics  
+- SQL & Excel Automation  
+
+---
+
+## 🌱 Currently Learning
+- SQL (Joins, Aggregations, Subqueries)
+- Power BI (DAX, Data Modeling, Drill-down Visuals)
+
+---
+
+## 🤝 Open to Collaborate
+I’m looking to work on real-world, data-related projects where I can contribute and grow in:
+- Dashboard building
+- Data storytelling
+- Business insights generation
+
+---
+
+## 📫 Let's Connect
+- **📧 Email**: asifalikhan17720@gmail.com  
+- **🔗 LinkedIn**: [linkedin.com/in/asifalikhana](https://www.linkedin.com/in/asifalikhana)
+
+---
+
+## 🔍 Coming Soon
+I'm currently building my project portfolio — stay tuned for:
+- Power BI Dashboards  
+- Excel Automation Projects  
+- SQL Query Practice Repos  
+
+---
