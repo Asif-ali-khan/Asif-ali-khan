@@ -17,9 +17,7 @@
 ---
 
 ## 🌱 Currently Learning  
-- **SQL:** Joins, Aggregations, Subqueries  
-- **Power BI:** DAX, Data Modeling, Drill-down Visuals  
-
+- **Python:** for data Analysis and Automation 
 ---
 
 ## 🏅 Certifications  
